@@ -1,14 +1,14 @@
 
 name: Shantharam Shenoy
 description: "Shantharam's blog about programming - Ruby, Rails."
-url: http://nithinbekal.com
+url: https://shantharamshenoy.github.io/
 highlighter: rouge
 permalink: /posts/:title/
 markdown: kramdown
 
 theme:
-  disqus_shortname: nithinbekal
-  google_analytics: UA-2095438-7
+  disqus_shortname: shantharamsk
+  
 
 sass:
   sass_dir: _sass
