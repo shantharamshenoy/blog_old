@@ -1,0 +1,20 @@
+
+name: Shantharam Shenoy
+description: "Shantharam's blog about programming - Ruby, Rails."
+url: http://nithinbekal.com
+highlighter: rouge
+permalink: /posts/:title/
+markdown: kramdown
+
+theme:
+  disqus_shortname: nithinbekal
+  google_analytics: UA-2095438-7
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-sitemap
