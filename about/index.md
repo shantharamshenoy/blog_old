@@ -7,8 +7,8 @@ date:  2016-08-23 20:34:41
 
 My name is Shantharam Shenoy and
 I'm a software craftsman from Bangalore, India.
-I've been shipping complex enterprise applications for over 7 years.
-I have been using IBM BPM Tools and have recently started exploring Ruby and Rails.
+I've been shipping complex enterprise applications for over 9 years.
+Having previously worked mainly with Enterprise Integration tools, i have recently made the switch to MEAN Stack as well as IIB. I am currently working with <a href="http://www.neutrinos.co/">Neutrinos<a> with a vision to bring idea to life.
 
 On the interwebs, you can find me on these places:
 [Github](http://github.com/shantharamshenoy),
