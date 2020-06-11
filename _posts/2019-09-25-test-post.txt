@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Test"
+title: "New Updates"
 date:  2019-09-24 19:42:42 +05:30
 categories: Linux
 ---
 
-Telling Tarun to create a blog
+Things have changed dramatically over the last couple of months. Working from home is the new normal. This while has benefits has certain drawbacks too. The boundary between work and personal time has almost blurred and it is becoming imperative that we spend time on personal growth as well as professional. In the last couple of weeks, i have been exploring topics such as MEAN Stack, Python, AWS/Azure. Will be sharing my notes/pointers and updates on these courses over the next few weeks.
+
+Until then,
+Stay Safe, Stay Healthy
+
